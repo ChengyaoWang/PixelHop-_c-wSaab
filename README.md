@@ -4,7 +4,7 @@
 The code is still under construction
 
 ### Introduction
-This is implementation by Chengyao Wang
+This is implemented by Chengyao Wang
 
 OOP / Numpy version is an modified version of Yifan Wang's [EE569_2020Spring](https://github.com/USC-MCL/EE569_2020Spring)
 
