@@ -19,7 +19,7 @@ Note that this is not the official implementation.
   - Substituting SVD by Eigen-decomposition
   - Manual invocation of Python Vitual Machine's garbage collector
   - Spark Framework
-  - Save / Load options using * *pickle* *
+  - Save / Load options using *pickle*
 
 
 ### Major Dependencies
